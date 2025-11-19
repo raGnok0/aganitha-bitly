@@ -1,5 +1,3 @@
-Here is a **clean, polished, production-quality README.md** for your project.\
-` `It clearly explains your app, setup, architecture, features, database workflow, deployment, and API usage — perfect for GitHub + assignment submission.
 
 -----
 # <a name="_73kjkalqouml"></a>**📘 Aganitha URL Shortener — Next.js + Prisma + Neon + Vercel**
